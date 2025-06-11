@@ -1,7 +1,7 @@
-🌸 Flaura — The File Organizer Assistant
+## 🌸 Flaura — The File Organizer Assistant
 "Bring digital calm to your chaotic folders."
 
-📁 What is Flaura?
+# 📁 What is Flaura?
 Flaura is a simple Python script that helps you automatically organize files in any folder. Whether it's your messy Downloads folder or a chaotic desktop, Flaura sorts everything into neat categories like Images, Documents, Music, and more.
 
 🔧 Features
@@ -16,34 +16,58 @@ Flaura is a simple Python script that helps you automatically organize files in 
 🐍 Written in beginner-friendly Python
 
 🖼️ Example (Before → After)
-Before:
+# Before:
 
 lua
+
 Copy
+
 Edit
+
 Downloads/
+
 ├── song.mp3
+
 ├── photo.jpg
+
 ├── resume.pdf
+
 ├── video.mp4
+
 ├── random.xyz
-After Flaura:
+
+# After Flaura:
 
 lua
+
 Copy
+
 Edit
+
 Downloads/
+
 ├── Music/
+
 │   └── song.mp3
+
 ├── Images/
+
 │   └── photo.jpg
+
 ├── Documents/
+
 │   └── resume.pdf
+
 ├── Videos/
+
+
 │   └── video.mp4
+
 ├── Others/
+
 │   └── random.xyz
-▶️ How to Use
+
+# ▶️ How to Use
 Install Python 3
 
 Run flaura.py in terminal
