@@ -18,7 +18,7 @@ Flaura is a simple Python script that helps you automatically organize files in 
 🖼️ Example (Before → After)
 # Before:
 
-lua
+
 
 Copy
 
@@ -38,7 +38,6 @@ Downloads/
 
 # After Flaura:
 
-lua
 
 Copy
 
