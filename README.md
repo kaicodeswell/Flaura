@@ -59,18 +59,9 @@ Downloads/
 │   └── random.xyz
 
 # ▶️ How to Use
-Install Python 3
+- Install Python 3
 
-Run flaura.py in terminal
+- Run flaura.py in terminal
 
-Enter the folder path you want Flaura to organize
+- Enter the folder path you want Flaura to organize
 
-Would you like me to:
-
-💠 Make a logo for Flaura?
-
-🌐 Create a GitHub badge row (language, license, etc.)?
-
-📥 Help upload the README.md and code to your repo?
-
-Let’s make Flaura bloom on GitHub!
