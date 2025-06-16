@@ -20,10 +20,6 @@ Flaura is a simple Python script that helps you automatically organize files in 
 
 
 
-Copy
-
-Edit
-
 Downloads/
 
 ├── song.mp3
@@ -38,10 +34,6 @@ Downloads/
 
 # After Flaura:
 
-
-Copy
-
-Edit
 
 Downloads/
 
